@@ -5,9 +5,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h2>
+<h3>
   - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
-</h2>
+</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
