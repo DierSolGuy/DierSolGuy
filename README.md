@@ -14,14 +14,18 @@
 </div>
 
 <div id="badges" align="center">
+ <img src="https://komarev.com/ghpvc/?username=DierSolGuy&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+<h2><i>Let's Connect</i></h2>
+
+<div id="badges" align="center">
   <a href="linkedin.com/in/sourish-mukherjee-156ab9184">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=DierSolGuy&style=flat-square&color=blue" alt=""/>
-</div>
 
 
 
