@@ -4,6 +4,9 @@
 
  - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### Tech Stack
 <br>
