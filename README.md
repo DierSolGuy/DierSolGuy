@@ -17,10 +17,18 @@
  <img src="https://komarev.com/ghpvc/?username=DierSolGuy&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h2><i>Tech Stack</i></h2>
+
+
 
 <div id="badges">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mysql Badge"/>
 </div>
 
 <h2><i>Let's Connect</i></h2>
