@@ -17,6 +17,11 @@
  <img src="https://komarev.com/ghpvc/?username=DierSolGuy&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h2><i>Tech Stack</i></h2>
+
+<div id="badges">
+    <img src="[[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)" alt="Wordpress Badge"/>
+</div>
 
 <h2><i>Let's Connect</i></h2>
 
@@ -25,6 +30,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
 
 
 
